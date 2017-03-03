@@ -1,0 +1,23 @@
+{
+  "name": "immutableexamples",
+  "version": "1.0.0",
+  "description": "This is a set of examples using Immutable.js from Facebook",
+  "main": "insert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanZeuss/ImmutableExamples.git"
+  },
+  "keywords": [
+    "immutable.js",
+    "examples"
+  ],
+  "author": "Daniel Vieira Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanZeuss/ImmutableExamples/issues"
+  },
+  "homepage": "https://github.com/DanZeuss/ImmutableExamples#readme"
+}
